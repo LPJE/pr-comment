@@ -1,21 +1,23 @@
 {
-  "name": "javascript-action",
+  "name": "pr-commment",
   "description": "GitHub Actions JavaScript Template",
   "version": "0.0.0",
   "author": "",
   "private": true,
-  "homepage": "https://github.com/actions/javascript-action#readme",
+  "homepage": "https://github.com/LPJE/pr-comment#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/actions/javascript-action.git"
+    "url": "git+https://github.com/LPJE/pr-comment.git"
   },
   "bugs": {
-    "url": "https://github.com/actions/javascript-action/issues"
+    "url": "https://github.com/LPJE/pr-comment/issues"
   },
   "keywords": [
     "GitHub",
     "Actions",
-    "JavaScript"
+    "JavaScript",
+    "Pull Request"
+
   ],
   "exports": {
     ".": "./dist/index.js"
